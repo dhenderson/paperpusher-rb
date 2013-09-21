@@ -170,8 +170,6 @@ function ReportController($scope) {
 			groups.push(group_name)
 			checkbox.checked=true;
 		}
-		
-		alert(groups);
 	}
 	
 	/**
